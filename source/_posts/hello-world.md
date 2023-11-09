@@ -1,38 +1,9 @@
 ---
-title: Hello World
+title: Hello, World!
+date: 2023-11-09
+excerpt: 第一次有了自己的博客！
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+学了快两三年编程了，总觉得作为一名（未来的）程序员，得要有个博客才行。这样，我就可以把一些学习笔记、心得、日记什么的都放到这里，一方面自己不会忘记，另一方面也可以分享给更多的后人看（真的会有人来看我的博客吗QAQ）。
 
-### Create a new post
-
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+先把高中无聊做的小游戏放上来吧，虽然没人看，但至少可以让我的博客内容多一点。
